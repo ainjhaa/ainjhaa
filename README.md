@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Ain Najiha
 🌱 I’m currently studying at UTM Johor Bahru
 <!--
 **ainjhaa/ainjhaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
