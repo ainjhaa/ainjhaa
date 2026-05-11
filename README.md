@@ -5,9 +5,7 @@
 
 ###  👨‍💻 Languages and Tools I Use
 
-![Python](https://img.shields.io/badge/Python-05122A?style=plastic&logo=Python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=plastic&logo=JavaScript&logoColor=F7DF1E)
-![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-05122A?&style=plastic&logo=database&logoColor=025E8C)
+[![My Skills](https://skillicons.dev/icons?i=python,linux,ubuntu,java,c,cpp,js,mysql,html,css,php,figma)](https://skillicons.dev)
 
 ###  📺 Contact Me
 
