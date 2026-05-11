@@ -1,4 +1,5 @@
-# ![Hi there 👋 I am Ain Najiha](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7E125&width=435&lines=Hi+there+%F0%9F%91%8B+I+am+Ain+Najiha!)
+# ![Hi there 👋 I am Ain Najiha](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F1F71B&width=435&height=40&lines=Hi+there+%F0%9F%91%8B+I+am+Ain+Najiha+!)
+<!--(https://git.io/typing-svg)-->
 ### Computer and Network Security Student
 - 🌱 Currently studying at UTM Johor Bahru
 - 🔭 Seeking for internship in cybersecurity area
